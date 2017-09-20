@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Going to add some more text now
+Going to add some more text now.  Adding some more changes from myfeature branch
 
 ## Purpose
 
